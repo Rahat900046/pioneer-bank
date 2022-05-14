@@ -5,7 +5,7 @@
 }
 
 body{
-
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .bank-title{
@@ -13,4 +13,5 @@ body{
     padding-top: 50px;
     color: red;
     font-size: 40px;
+    font-weight: 600;
 }
