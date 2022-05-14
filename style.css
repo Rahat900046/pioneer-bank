@@ -10,5 +10,7 @@ body{
 
 .bank-title{
     text-align: center;
-    
+    padding-top: 50px;
+    color: red;
+    font-size: 40px;
 }
